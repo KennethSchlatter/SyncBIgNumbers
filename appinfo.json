@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kenneth.schlatter@gmail.com",
+    "longName": "ASL Big Numbrs",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Syncopate-Bold.ttf",
+                "name": "SYNC_BOLD_50",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ASL Big #",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2b84f4e5-5d93-4350-99ed-6db1638c92a9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
